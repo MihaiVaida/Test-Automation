@@ -20,7 +20,7 @@ public class DataType {
 
         boolean monday = false;
         boolean tuesday = true;
-        System.out.println("Is today tuesday? " + luni);
+        System.out.println("Is today tuesday? " + monday);
 
         System.out.println("---------------------------------");
         double price = 150.22;
