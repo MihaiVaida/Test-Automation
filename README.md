@@ -1,2 +1,2 @@
-# Test-Automation
-Test Automation with Java &amp; Selenium
+# Time to learn Test Automation
+Learning test automation with Java &amp; Selenium
