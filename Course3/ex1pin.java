@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C2Ex2 {
+public class Ex1Pin {
   
     public static void main(String[] args) {
 
