@@ -1,4 +1,4 @@
-public class C2Ex3 {
+public class Ex2Fizzbuzz {
     public static void main(String[] args) {
 
         /**
